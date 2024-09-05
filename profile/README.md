@@ -6,4 +6,4 @@ O sistema Medicina Viva é uma plataforma integrada para gestão de consultas m�
 <br/>
 
 >## Descrição Arquitetural
-![Diagrama de Estrutura Arquitetural](Estrutura%20Arquitetural%20Medicina%20Viva.png)
+![Diagrama de Estrutura Arquitetural](../Estrutura%20Arquitetural%20Medicina%20Viva.png)
