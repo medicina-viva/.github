@@ -1,12 +1,9 @@
-## Hi there 👋
+# 🩺 Medicina Viva
+>##### Plataforma integrada para gestão de consultas médicas e registros de saúde.
 
-<!--
+O sistema Medicina Viva é uma plataforma integrada para gestão de consultas médicas e registros de saúde. Ele oferece funcionalidades para agendamento de consultas, realização de teleconsultas, gerenciamento de prontuários médicos e armazenamento de exames e documentos. O sistema visa melhorar a eficiência dos cuidados médicos e a experiência dos pacientes, facilitando a comunicação entre diferentes componentes do sistema.
 
-**Here are some ideas to get you started:**
+<br/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+>## Descrição Arquitetural
+![Diagrama de Estrutura Arquitetural](Estrutura%20Arquitetural%20Medicina%20Viva.png)
